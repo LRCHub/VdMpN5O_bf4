@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "monolith",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T12:58:54.017209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/01_Monolith_Yello.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Emma Ruth Rundle feat. Thou",
+      "has_synced": true,
+      "path": "select/02_Monolith_Emma_Ruth_Rundle_feat._Thou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Emma Ruth Rundle",
+      "has_synced": true,
+      "path": "select/03_Monolith_Emma_Ruth_Rundle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/04_Monolith_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/05_Monolith_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Mortiis",
+      "has_synced": false,
+      "path": "select/06_Monolith_Mortiis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monolith of Doubt - Single Version",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/07_Monolith_of_Doubt_-_Single_Version_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monolith Of Doubt (Single Version)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/08_Monolith_Of_Doubt_(Single_Version)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monolith of Doubt",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/09_Monolith_of_Doubt_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/10_Monolith_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/11_Monolith_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monolith",
+      "artist": "Emma Ruth Rundle Thou",
+      "has_synced": true,
+      "path": "select/12_Monolith_Emma_Ruth_Rundle_Thou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "monolith",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_monolith_04_Limited_Sazabys.txt"
+    }
+  ]
+}
